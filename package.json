@@ -14,7 +14,7 @@
     "dev:pages": "vite --config vite.pages.config.ts",
     "build:pages": "vite build --config vite.pages.config.ts",
     "check": "tsc --noEmit",
-    "test": "tsc lib/game.ts --outDir outputs/logic --module ES2022 --target ES2022 --skipLibCheck && node --test tests/*.test.mjs"
+    "test": "tsc lib/game.ts lib/battle-input.ts --outDir outputs/logic --module ES2022 --target ES2022 --skipLibCheck && node --test tests/*.test.mjs"
   },
   "dependencies": {
     "react": "19.2.6",
