@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sky-islands-background",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "prompt": "Use case: stylized-concept\nAsset type: original landscape raster background for a cheerful browser turn-based artillery game called 弹弹奇旅; an environment asset, no game interface.\nPrimary request: vivid panoramic floating sky island archipelago, polished painterly 3D premium mobile game art. Landscape 1536x1024 composition.\nScene/backdrop: brilliant cyan sky with huge soft puffy white clouds, golden sunshine and atmospheric distance. Emerald-grass floating islands with cream limestone cliffs, tiny picturesque windmills and small colorful flowers. Islands around lower foreground and far side edges, floating archipelago receding into the horizon.\nComposition/framing: wide airy cinematic landscape, center and upper center remain open bright sky with broad usable negative space. Rich layered depth; foreground islands frame rather than block the view.\nStyle/medium: polished stylized 3D game illustration, soft rounded forms, painterly surfaces, warm appealing details, beautiful luminous colors.\nLighting/mood: sunny adventurous optimistic fairytale afternoon.\nConstraints: original environment only; no text, lettering, logos, watermark, UI, borders, characters or weapons.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "chibi-heroes-sheet",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "prompt": "Use case: stylized-concept\nAsset type: transparent PNG character sprite asset sheet for an original cheerful browser artillery game; not a UI screenshot.\nPrimary request: EXACTLY THREE separate full-body chibi heroes arranged horizontally at consistent scale on a genuinely transparent alpha background. Landscape 1536x1024 sheet. Each character entirely inside its own one-third column, with ample transparent padding and clear empty separation. No overlapping silhouettes.\nSubjects, left to right: (1) orange-haired girl sky explorer with bronze aviator goggles, teal cape, cream-and-orange outfit holding an oversized orange-and-ivory toy cannon; (2) silver-haired boy wearing navy cat-ear pilot hat, purple cape holding an icy blue crystal blaster; (3) mint-haired girl botanist in leaf cap holding a green sunflower toy launcher. All have distinct beautiful expressive faces, appealing large eyes, charming confident smiles, and miniature adventurous outfits.\nStyle/medium: premium polished 3D clay/anime mobile game render, adorable rounded chibi proportions, high-quality materials, warm soft studio light, detailed yet clear at small scale.\nComposition/framing: all three stand in a three-quarter stance facing right. Show complete hair, headgear, bodies, hands, weapon, footwear. Equal visual scale and aligned feet, no cropping.\nConstraints: actual transparent background, no opaque matte, no checkerboard drawn into image; no scenery, no ground or bases, no cast floor shadows, no text, no watermark, no borders, no additional characters.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "equipment-icons-sheet",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "prompt": "Use case: stylized-concept\nAsset type: transparent PNG equipment icon sprite sheet for an original cute fantasy browser artillery game; not a UI screenshot.\nPrimary request: EXACTLY SIX separate cute highly detailed equipment objects arranged in EXACTLY THREE COLUMNS by TWO ROWS, perfectly even cells and generous transparent padding between all silhouettes. Landscape 1536x1024 sheet with each item centered in its own cell.\nObjects left to right: TOP ROW: orange-and-ivory oversized toy cannon with rounded cheerful proportions; blue ice crystal blaster with gleaming frozen crystal barrel; green sunflower toy launcher with bright yellow sunflower-shaped muzzle. BOTTOM ROW: bronze aviator goggles with rich brown leather strap; teal winged cloak with little feathered wing shapes; golden star amulet on a short necklace.\nStyle/medium: colorful premium polished 3D clay/anime game props, soft rounded forms, appealing detailed materials, warm soft studio lighting; same visual style across all 6 objects. Three-quarter perspective, silhouettes clean and recognizable.\nConstraints: genuine transparent alpha background; no opaque matte, no checkerboard drawn in image; no text, letters, numbers, watermark, borders, panels, cell backgrounds, scenery, people, hands or bases. Six single objects only, separate non-touching silhouettes.",
+    "mode": "built-in image_gen"
+  }
+]

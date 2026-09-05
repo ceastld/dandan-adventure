@@ -1,0 +1,152 @@
+{
+  "heroes": [
+    {
+      "file": "public/assets/hero-0.png",
+      "width": 736,
+      "height": 992,
+      "source_bbox": [
+        0,
+        23,
+        641,
+        956
+      ],
+      "canvas_offset": [
+        47,
+        29
+      ],
+      "alpha_nonzero_pixels": 300721
+    },
+    {
+      "file": "public/assets/hero-1.png",
+      "width": 736,
+      "height": 992,
+      "source_bbox": [
+        455,
+        23,
+        1146,
+        956
+      ],
+      "canvas_offset": [
+        22,
+        29
+      ],
+      "alpha_nonzero_pixels": 248427
+    },
+    {
+      "file": "public/assets/hero-2.png",
+      "width": 736,
+      "height": 992,
+      "source_bbox": [
+        935,
+        23,
+        1536,
+        956
+      ],
+      "canvas_offset": [
+        67,
+        29
+      ],
+      "alpha_nonzero_pixels": 252216
+    }
+  ],
+  "items": [
+    {
+      "file": "public/assets/item-0.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        13,
+        21,
+        513,
+        520
+      ],
+      "canvas_offset": [
+        38,
+        22
+      ],
+      "alpha_nonzero_pixels": 141616
+    },
+    {
+      "file": "public/assets/item-1.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        523,
+        12,
+        1013,
+        482
+      ],
+      "canvas_offset": [
+        43,
+        37
+      ],
+      "alpha_nonzero_pixels": 113506
+    },
+    {
+      "file": "public/assets/item-2.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        1025,
+        25,
+        1522,
+        482
+      ],
+      "canvas_offset": [
+        39,
+        43
+      ],
+      "alpha_nonzero_pixels": 143638
+    },
+    {
+      "file": "public/assets/item-3.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        0,
+        527,
+        528,
+        978
+      ],
+      "canvas_offset": [
+        24,
+        46
+      ],
+      "alpha_nonzero_pixels": 125512
+    },
+    {
+      "file": "public/assets/item-4.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        503,
+        504,
+        1040,
+        1010
+      ],
+      "canvas_offset": [
+        19,
+        19
+      ],
+      "alpha_nonzero_pixels": 161716
+    },
+    {
+      "file": "public/assets/item-5.png",
+      "width": 576,
+      "height": 544,
+      "source_bbox": [
+        1049,
+        494,
+        1504,
+        990
+      ],
+      "canvas_offset": [
+        60,
+        24
+      ],
+      "alpha_nonzero_pixels": 93102
+    }
+  ],
+  "processing": "Deterministic extraction only; no resizing, repainting, or alpha alteration. Row-adaptive hero separators derived from alpha > 8 connected components. All source nonzero-alpha RGBA pixels retained exactly once. Six item components extracted intact; detached faint pixels assigned to nearest item bounds.",
+  "validation": "All source pixels with alpha > 0 assigned exactly once, and exported pixel values verified byte-for-byte. Transparent pixel RGB reset to 0."
+}
